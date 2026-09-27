@@ -1,0 +1,9 @@
+/qy-change
+/.ssh/
+/dist/
+*.exe
+*.zip
+*.tar.gz
+*.test
+coverage.out
+.DS_Store
